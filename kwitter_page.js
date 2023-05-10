@@ -1,13 +1,13 @@
 
 var firebaseConfig = {
-  apiKey: "AIzaSyAL6vREm9CGGrja7X1PZyHHWZbhi6rzgy4",
-  authDomain: "tfyguhjk-a5e81.firebaseapp.com",
-  databaseURL: "https://tfyguhjk-a5e81-default-rtdb.firebaseio.com",
-  projectId: "tfyguhjk-a5e81",
-  storageBucket: "tfyguhjk-a5e81.appspot.com",
-  messagingSenderId: "269133648079",
-  appId: "1:269133648079:web:55a91c81ef865ade9ca7ba",
-  measurementId: "G-D8G2K4MF93"
+ apiKey: "AIzaSyAJEz-Z2XRVA-0ntX3deYxWC9lRmfMzbHM",
+  authDomain: "methodical-tea-383407.firebaseapp.com",
+  databaseURL: "https://methodical-tea-383407-default-rtdb.firebaseio.com",
+  projectId: "methodical-tea-383407",
+  storageBucket: "methodical-tea-383407.appspot.com",
+  messagingSenderId: "648544396016",
+  appId: "1:648544396016:web:a86862add7aafb79a79835",
+  measurementId: "G-K2H02RJK3R"
 };
 
 // Initialize Firebase
